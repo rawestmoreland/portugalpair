@@ -5,7 +5,7 @@ export default async function Home() {
   return (
     <>
       <Header />
-      <main className="flex min-h-screen w-full flex-col items-center bg-white md:p-24">
+      <main className="flex w-full flex-col items-center bg-white md:p-24">
         <div className="container max-w-xl">
           <iframe
             src="https://embeds.beehiiv.com/87ed1672-1f7d-42bd-854b-7746b0d4edf1"
