@@ -11,7 +11,7 @@ export default async function Home() {
           data-test-id="beehiiv-embed"
           width="480"
           height="320"
-          frameborder="0"
+          frameBorder="0"
           scrolling="no"
           style={{
             borderRadius: "4px",
